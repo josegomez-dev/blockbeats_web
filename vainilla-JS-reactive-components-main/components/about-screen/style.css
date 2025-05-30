@@ -1,0 +1,19 @@
+.team-member {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+}
+.team-member img {
+    width: 200px;
+}
+
+.sponsor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+}
+.sponsor img {
+    width: 200px;
+}
